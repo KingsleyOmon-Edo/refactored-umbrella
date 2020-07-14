@@ -7,4 +7,4 @@ These are the instruction to follow:
 
 Installation on IIS
 ===================
-1. How to install on IIS
+
