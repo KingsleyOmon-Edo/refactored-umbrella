@@ -2,4 +2,3 @@ These are the installation instructions
 =======================================
 1. Install step 1
 2. Install step 2
-3. Install step 3

@@ -5,6 +5,3 @@ These are the instruction to follow:
 3. Instruction three
 4. Instruction four
 
-Installation on IIS
-===================
-
